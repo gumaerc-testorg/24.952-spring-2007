@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: eb85b65b-3fc1-5d51-96c3-2361ca6b9abe
 ---
@@ -76,7 +79,7 @@ Aoun, Joseph, and Abbas Benmamoun. "Minimality, Reconstruction, and PF Movement.
 {{< tdopen >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _Wh_\-movement: Islands, barriers and successive-cyclicity
 {{< tdclose >}}
 {{< tdopen >}}
@@ -157,7 +160,7 @@ Starke, Michal. "Move Dissolves into Merge: a Theory of Locality." Doctoral diss
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Phases, barriers, and spell-out
 {{< tdclose >}}
 {{< tdopen >}}
@@ -227,7 +230,7 @@ Cable, Seth. "Q-Particles and the Nature of _Wh_ -Fronting." Manuscript, 2006, M
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 A vs. A-bar movement and scrambling
 {{< tdclose >}}
 {{< tdopen >}}
