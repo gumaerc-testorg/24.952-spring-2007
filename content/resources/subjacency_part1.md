@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6f8b7683-e6fa-e2e4-2190-74d9e42f0914
 resourcetype: Document
 title: subjacency_part1.pdf
 uid: 1598c64b-db7b-406a-b765-f2ebd450b3c1

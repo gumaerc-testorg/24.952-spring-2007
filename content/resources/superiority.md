@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6f8b7683-e6fa-e2e4-2190-74d9e42f0914
 resourcetype: Document
 title: superiority.pdf
 uid: f739ec3c-2520-6b87-bda2-3f5865269467

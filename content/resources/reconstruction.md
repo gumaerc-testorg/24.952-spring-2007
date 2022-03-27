@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6f8b7683-e6fa-e2e4-2190-74d9e42f0914
 resourcetype: Document
 title: reconstruction.pdf
 uid: ccce4a3e-0ac6-34c1-bcf7-d7859e84e425

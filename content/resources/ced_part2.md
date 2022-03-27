@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6f8b7683-e6fa-e2e4-2190-74d9e42f0914
 resourcetype: Document
 title: ced_part2.pdf
 uid: 82b94c7e-3235-07d5-5b79-5dd514fd0283
