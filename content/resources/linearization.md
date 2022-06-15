@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Cyclic Linearization and Chomsky's Phases.
-file: /media/courses/24-952-advanced-syntax-spring-2007/4ae6b576471c231c8ed86e62dd11b8b3_linearization.pdf
+file: /courses/24-952-advanced-syntax-spring-2007/4ae6b576471c231c8ed86e62dd11b8b3_linearization.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: linearization.pdf
 uid: 4ae6b576-471c-231c-8ed8-6e62dd11b8b3
 ---
+Lecture notes about Cyclic Linearization and Chomsky's Phases.
+

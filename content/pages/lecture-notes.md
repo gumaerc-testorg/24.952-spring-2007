@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ LECTURE NOTES
 Covert movement and logical form
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1_logical))
+({{% resource_link 6830dadd-424e-86ef-29a6-86f41dcf25d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Covert movement and logical form
 Reconstruction and logical form
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reconstruction))
+({{% resource_link ccce4a3e-0ac6-34c1-bcf7-d7859e84e425 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,9 +58,9 @@ _Wh_\-movement: Islands, barriers and successive-cyclicity
 {{< tdopen >}}
 
 
-Part 1 ([PDF]({{< baseurl >}}/resources/subjacency_part1))
+Part 1 ({{% resource_link 1598c64b-db7b-406a-b765-f2ebd450b3c1 "PDF" %}})
 
-"On _Wh_\-Movement" ([PDF]({{< baseurl >}}/resources/wh_movement)) (Courtesy of David Pesetsky. Used with permission.)
+"On _Wh_\-Movement" ({{% resource_link 0784a95d-ca0a-262c-55c4-8067d2d993d5 "PDF" %}}) (Courtesy of David Pesetsky. Used with permission.)
 
 
 {{< tdclose >}}
@@ -73,7 +74,7 @@ Part 1 ([PDF]({{< baseurl >}}/resources/subjacency_part1))
 _Wh_\-movement: Islands, barriers and successive-cyclicity (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Part 2 ([PDF]({{< baseurl >}}/resources/ced_part2))
+Part 2 ({{% resource_link 82b94c7e-3235-07d5-5b79-5dd514fd0283 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Part 2 ([PDF]({{< baseurl >}}/resources/ced_part2))
 _Wh_\-movement: Islands, barriers and successive-cyclicity (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Part 3 ([PDF]({{< baseurl >}}/resources/barriers_part3))
+Part 3 ({{% resource_link 1e0b264e-d876-9a95-110a-22611ecf58a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Part 3 ([PDF]({{< baseurl >}}/resources/barriers_part3))
 Superiority, probes and goals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/superiority))
+({{% resource_link f739ec3c-2520-6b87-bda2-3f5865269467 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Remnant movement, derivations, probes and goals
 Weak islands and relativized minimality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/weak_islands))
+({{% resource_link 7e97f6e8-a97e-face-c20a-6057286237f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,15 +148,15 @@ Phases, barriers, and spell-out
 {{< tdopen >}}
 
 
-Main points ([PDF]({{< baseurl >}}/resources/main_points))
+Main points ({{% resource_link 6f20fbe5-308a-3b26-b64a-46e16cfad1a9 "PDF" %}})
 
-Minimalist inquiries ([PDF]({{< baseurl >}}/resources/minimalist_hdt)) (Courtesy of David Pesetsky. Used with permission.)
+Minimalist inquiries ({{% resource_link 9f8a608c-5dbd-ebc1-7fad-85a6031e7429 "PDF" %}}) (Courtesy of David Pesetsky. Used with permission.)
 
-Derivation by phase ([PDF]({{< baseurl >}}/resources/derivation)) (Courtesy of David Pesetsky. Used with permission.)
+Derivation by phase ({{% resource_link 590a6ab4-7b8e-deae-7531-591cdb98630f "PDF" %}}) (Courtesy of David Pesetsky. Used with permission.)
 
-Cyclic linearization ([PDF]({{< baseurl >}}/resources/linearization))
+Cyclic linearization ({{% resource_link 4ae6b576-471c-231c-8ed8-6e62dd11b8b3 "PDF" %}})
 
-Holmberg's generalization ([PDF]({{< baseurl >}}/resources/generalization))
+Holmberg's generalization ({{% resource_link ef2803d8-e3ef-980e-2d4f-c5d711b30409 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -181,7 +182,7 @@ _Wh_\-movement: Pied-piping
 A vs. A-bar movement and scrambling
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/scrambling))
+({{% resource_link 55f47b8b-292f-15ee-4d0e-9eeca88660a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

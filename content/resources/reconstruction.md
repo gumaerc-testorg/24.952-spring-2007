@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Reconstruction and Logical Form.
-file: /media/courses/24-952-advanced-syntax-spring-2007/ccce4a3e0ac634c1bcf7d7859e84e425_reconstruction.pdf
+file: /courses/24-952-advanced-syntax-spring-2007/ccce4a3e0ac634c1bcf7d7859e84e425_reconstruction.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: reconstruction.pdf
 uid: ccce4a3e-0ac6-34c1-bcf7-d7859e84e425
 ---
+Lecture notes about Reconstruction and Logical Form.
+
