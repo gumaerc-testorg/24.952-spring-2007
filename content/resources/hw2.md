@@ -5,6 +5,7 @@ file: /courses/24-952-advanced-syntax-spring-2007/8ffbb2fb2a1e94eaa1f58a190f33dc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw2.pdf
 uid: 8ffbb2fb-2a1e-94ea-a1f5-8a190f33dcaf
 ---
 Homework #2: Logical Form and Covert Movement (due on 2/13).
-

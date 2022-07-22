@@ -5,6 +5,7 @@ file: /courses/24-952-advanced-syntax-spring-2007/0f97c40b07c1e1085b14deedeb72eb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw4_part1.pdf
 uid: 0f97c40b-07c1-e108-5b14-deedeb72eb24
 ---
 Homework 1: Islands, Barriers and Successive Cyclicity.
-

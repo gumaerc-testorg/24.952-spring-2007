@@ -5,6 +5,7 @@ file: /courses/24-952-advanced-syntax-spring-2007/1e0b264ed8769a95110a22611ecf58
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: barriers_part3.pdf
 uid: 1e0b264e-d876-9a95-110a-22611ecf58a9
 ---
 Lecture notes about Wh-movement: Islands, barriers and successive-cyclicity.
-

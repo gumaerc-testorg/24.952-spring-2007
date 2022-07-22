@@ -5,6 +5,7 @@ file: /courses/24-952-advanced-syntax-spring-2007/1598c64bdb7b406ab765f2ebd450b3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: subjacency_part1.pdf
 uid: 1598c64b-db7b-406a-b765-f2ebd450b3c1
 ---
 Lecture notes about Wh-movement: Islands, barriers and successive-cyclicity.
-

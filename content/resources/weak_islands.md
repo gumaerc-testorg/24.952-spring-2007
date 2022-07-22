@@ -5,6 +5,7 @@ file: /courses/24-952-advanced-syntax-spring-2007/7e97f6e8a97efacec20a6057286237
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: weak_islands.pdf
 uid: 7e97f6e8-a97e-face-c20a-6057286237f6
 ---
 Lecture notes about weak islands and relativized minimality.
-
