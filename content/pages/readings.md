@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about assigned readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: eb85b65b-3fc1-5d51-96c3-2361ca6b9abe
 ---
@@ -76,7 +80,7 @@ Aoun, Joseph, and Abbas Benmamoun. "Minimality, Reconstruction, and PF Movement.
 {{< tdopen >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _Wh_\-movement: Islands, barriers and successive-cyclicity
 {{< tdclose >}}
 {{< tdopen >}}
@@ -157,7 +161,7 @@ Starke, Michal. "Move Dissolves into Merge: a Theory of Locality." Doctoral diss
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Phases, barriers, and spell-out
 {{< tdclose >}}
 {{< tdopen >}}
@@ -186,7 +190,7 @@ Fox, Danny, and David Pesetsky. "Cyclic Linearization of Syntactic Structure." _
 
 Holmberg, Anders. "Remarks on Holmberg's Generalization." _Studia Linguistica_ 53 (1999): 1-39.
 
-Ko, Heejeong. "Asymmetries in Scrambling and Cyclic Linearization." _Linguistic Inquiry_ 28 (2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://muse.jhu.edu/journals/linguistic_inquiry/v038/38.1ko.pdf))
+Ko, Heejeong. "Asymmetries in Scrambling and Cyclic Linearization." _Linguistic Inquiry_ 28 (2007). ([PDF](http://muse.jhu.edu/journals/linguistic_inquiry/v038/38.1ko.pdf))
 
 
 {{< tdclose >}}
@@ -227,7 +231,7 @@ Cable, Seth. "Q-Particles and the Nature of _Wh_ -Fronting." Manuscript, 2006, M
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 A vs. A-bar movement and scrambling
 {{< tdclose >}}
 {{< tdopen >}}

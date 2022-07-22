@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, requirements, recommended citation, and the schedule of lecture
+  topics and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3fce90ca-0d4f-d539-0f64-5a8a9d69f153
 ---
@@ -24,7 +29,7 @@ Course Requirements
 
 ### Readings
 
-As always, we have associated readings with most of the topics covered in the class. Some of the readings will be designated as optional. All other readings are obligatory. Most of the readings are available in the [readings]({{< baseurl >}}/pages/readings) section.
+As always, we have associated readings with most of the topics covered in the class. Some of the readings will be designated as optional. All other readings are obligatory. Most of the readings are available in the {{% resource_link eb85b65b-3fc1-5d51-96c3-2361ca6b9abe "readings" %}} section.
 
 ### Assignments
 
