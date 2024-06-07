@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Homework #2: Logical Form and Covert Movement (due on 2/13).'
 file: /courses/24-952-advanced-syntax-spring-2007/8ffbb2fb2a1e94eaa1f58a190f33dcaf_hw2.pdf
+file_size: 25338
 file_type: application/pdf
 learning_resource_types:
 - Assignments

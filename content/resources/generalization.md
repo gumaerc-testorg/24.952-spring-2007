@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about Holmberg's Generalization and Locality.
 file: /courses/24-952-advanced-syntax-spring-2007/ef2803d8e3ef980e2d4fc5d711b30409_generalization.pdf
+file_size: 385301
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
