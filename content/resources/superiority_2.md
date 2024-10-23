@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-952-advanced-syntax-spring-2007/526141f64337853e60ff797b86d09edb_superiority_2.pdf
+file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/526141f64337853e60ff797b86d09edb_superiority_2.pdf
 file_size: 56487
 file_type: application/pdf
 learning_resource_types:
