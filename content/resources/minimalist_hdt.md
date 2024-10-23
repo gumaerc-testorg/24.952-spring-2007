@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Minimalist Inquiries.
-file: /courses/24-952-advanced-syntax-spring-2007/9f8a608c5dbdebc17fad85a6031e7429_minimalist_hdt.pdf
+file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/9f8a608c5dbdebc17fad85a6031e7429_minimalist_hdt.pdf
 file_size: 118405
 file_type: application/pdf
 learning_resource_types:

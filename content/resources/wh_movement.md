@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Wh-Movement.
-file: /courses/24-952-advanced-syntax-spring-2007/0784a95dca0a262c55c48067d2d993d5_wh_movement.pdf
+file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/0784a95dca0a262c55c48067d2d993d5_wh_movement.pdf
 file_size: 171869
 file_type: application/pdf
 learning_resource_types:
