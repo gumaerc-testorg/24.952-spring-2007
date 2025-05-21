@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about A vs. A-bar movement and scrambling.
-file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/55f47b8b292f15ee4d0e9eeca88660a3_scrambling.pdf
+file: /courses/24-952-advanced-syntax-spring-2007/55f47b8b292f15ee4d0e9eeca88660a3_scrambling.pdf
 file_size: 180226
 file_type: application/pdf
 learning_resource_types:
