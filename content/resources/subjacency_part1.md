@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes about Wh-movement: Islands, barriers and successive-cyclicity.'
-file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/1598c64bdb7b406ab765f2ebd450b3c1_subjacency_part1.pdf
+file: /courses/24-952-advanced-syntax-spring-2007/1598c64bdb7b406ab765f2ebd450b3c1_subjacency_part1.pdf
 file_size: 144145
 file_type: application/pdf
 learning_resource_types:

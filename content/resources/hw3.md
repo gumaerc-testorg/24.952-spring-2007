@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Homework #3: Reconstruction (due on 3/6).'
-file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/09b791dd1d989e1384af7b3c3b448557_hw3.pdf
+file: /courses/24-952-advanced-syntax-spring-2007/09b791dd1d989e1384af7b3c3b448557_hw3.pdf
 file_size: 42634
 file_type: application/pdf
 learning_resource_types:
