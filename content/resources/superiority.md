@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about superiority, nesting, crossing, probes, and goals.
-file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/f739ec3c25206b87bda23f5865269467_superiority.pdf
+file: /courses/24-952-advanced-syntax-spring-2007/f739ec3c25206b87bda23f5865269467_superiority.pdf
 file_size: 56493
 file_type: application/pdf
 learning_resource_types:
