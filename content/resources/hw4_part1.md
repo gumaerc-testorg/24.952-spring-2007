@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Homework 1: Islands, Barriers and Successive Cyclicity.'
-file: /courses/24-952-advanced-syntax-spring-2007/0f97c40b07c1e1085b14deedeb72eb24_hw4_part1.pdf
+file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/0f97c40b07c1e1085b14deedeb72eb24_hw4_part1.pdf
 file_size: 93629
 file_type: application/pdf
 learning_resource_types:

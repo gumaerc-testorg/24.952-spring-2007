@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Homework # 5: Superiority.'
-file: /courses/24-952-advanced-syntax-spring-2007/e28373a1b49f589503d792f22e31aecc_hw5.pdf
+file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/e28373a1b49f589503d792f22e31aecc_hw5.pdf
 file_size: 93851
 file_type: application/pdf
 learning_resource_types:
