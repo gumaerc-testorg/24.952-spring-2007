@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Minimalist Inquiries and Derivation by Phase.
-file: /courses/24-952-advanced-syntax-spring-2007/6f20fbe5308a3b26b64a46e16cfad1a9_main_points.pdf
+file: /ol-ocw-studio-app/courses/24-952-advanced-syntax-spring-2007/6f20fbe5308a3b26b64a46e16cfad1a9_main_points.pdf
 file_size: 198223
 file_type: application/pdf
 learning_resource_types:
