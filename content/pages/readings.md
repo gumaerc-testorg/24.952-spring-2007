@@ -42,11 +42,11 @@ Johnson, Kyle, and Satoshi Tomioka. "Lowering and Mid-size Clauses." Proceedings
 
 ### Optional
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661669) Pesetsky, David. [_Phrasal Movement and Its Kin_](https://mitpress.mit.edu/9780262661669). Cambridge, MA: MIT Press, 2000, chapters 1 and 2. ISBN: 9780262661669.
+{{% resource_link "07680151-c869-4871-b878-5b6d32e19e1f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pesetsky, David. {{% resource_link "07680151-c869-4871-b878-5b6d32e19e1f" "_Phrasal Movement and Its Kin_" %}}. Cambridge, MA: MIT Press, 2000, chapters 1 and 2. ISBN: 9780262661669.
 
 Reinhart, Tanya. "_Wh_\-in-situ in the Framework of the Minimalist Program." _Natural Language Semantics_ 6, no. 1 (1998): 29-56.
 
-Nissenbaum, Jon. "[Investigations of Covert Phrase Movement](http://web.mit.edu/mitwpl/)." Doctoral dissertation, Massachusetts Institute of Technology, 2001. Appendix of chapter 2.
+Nissenbaum, Jon. "{{% resource_link "ac4e3e5a-4744-4859-85fb-784cab30f041" "Investigations of Covert Phrase Movement" %}}." Doctoral dissertation, Massachusetts Institute of Technology, 2001. Appendix of chapter 2.
 
 
 {{< tdclose >}}
@@ -62,7 +62,7 @@ Reconstruction and logical form
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262561211) Fox, Danny. [_Economy and Semantic Interpretation_](https://mitpress.mit.edu/9780262561211). Cambridge, MA: MIT Press, 1999, chapters 5 and 6. ISBN: 9780262561211.
+{{% resource_link "e1ac4e6d-93b6-489b-9970-5f6a2c431ad9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fox, Danny. {{% resource_link "e1ac4e6d-93b6-489b-9970-5f6a2c431ad9" "_Economy and Semantic Interpretation_" %}}. Cambridge, MA: MIT Press, 1999, chapters 5 and 6. ISBN: 9780262561211.
 
 ### Optional
 
@@ -95,7 +95,7 @@ Chomsky, Noam. "On _Wh_\-Movement." In _Formal Syntax_. Edited by Peter W. Culic
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262031189) Chomsky, N. [_Barriers_](https://mitpress.mit.edu/9780262031189). Cambridge, MA: MIT Press, 1986, pp. 1-16. ISBN: 9780262031189.
+{{% resource_link "8f1cf04e-ac91-4e95-aad6-3e28914a0d3d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Chomsky, N. {{% resource_link "8f1cf04e-ac91-4e95-aad6-3e28914a0d3d" "_Barriers_" %}}. Cambridge, MA: MIT Press, 1986, pp. 1-16. ISBN: 9780262031189.
 
 McCloskey, James. "Resumption, Successive Cyclicicty, and the Locality of Operations." In _Derivation and Explanation in the Minimalist Program_. Edited by Samuel Epstein and Daniel Seeley. Oxford, UK: Blackwell, 2002. ISBN: 9780631227335.
 
@@ -113,9 +113,9 @@ Superiority, probes and goals
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550321) Richards, Norvin. "Featural Cyclicity and the Ordering of Multiple Specifiers." In [_Working Minimalism_](https://mitpress.mit.edu/9780262550321). Edited by Samuel Epstein and Norbert Hornstein. Cambridge, MA: MIT Press, 1999, pp. 127-158. ISBN: 9780262550321.
+{{% resource_link "83febf10-b18e-4b96-912b-ac2402f53291" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Richards, Norvin. "Featural Cyclicity and the Ordering of Multiple Specifiers." In {{% resource_link "83febf10-b18e-4b96-912b-ac2402f53291" "_Working Minimalism_" %}}. Edited by Samuel Epstein and Norbert Hornstein. Cambridge, MA: MIT Press, 1999, pp. 127-158. ISBN: 9780262550321.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550321) Bošković, Željko. "On Multiple Feature-checking: Multiple _Wh_\-Fronting and Multiple Head-movement." In [_Working Minimalism_](https://mitpress.mit.edu/9780262550321). Edited by Samuel Epstein and Norbert Hornstein. Cambridge, MA: MIT Press, 1999, pp. 159-187. ISBN: 9780262550321.
+{{% resource_link "83febf10-b18e-4b96-912b-ac2402f53291" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bošković, Željko. "On Multiple Feature-checking: Multiple _Wh_\-Fronting and Multiple Head-movement." In {{% resource_link "83febf10-b18e-4b96-912b-ac2402f53291" "_Working Minimalism_" %}}. Edited by Samuel Epstein and Norbert Hornstein. Cambridge, MA: MIT Press, 1999, pp. 159-187. ISBN: 9780262550321.
 
 
 {{< tdclose >}}
@@ -149,7 +149,7 @@ Weak islands and relativized minimality
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680615) Rizzi, Luigi. [_Relativized Minimality_](https://mitpress.mit.edu/9780262680615). Cambridge, MA: MIT Press, 1990. ISBN: 9780262680615. (Short excerpt.)
+{{% resource_link "8c138a6e-dc81-4763-8e81-27960714744b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rizzi, Luigi. {{% resource_link "8c138a6e-dc81-4763-8e81-27960714744b" "_Relativized Minimality_" %}}. Cambridge, MA: MIT Press, 1990. ISBN: 9780262680615. (Short excerpt.)
 
 Starke, Michal. "Move Dissolves into Merge: a Theory of Locality." Doctoral dissertation, Université de Genève, 2001.
 
@@ -167,11 +167,11 @@ Phases, barriers, and spell-out
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531283) Chomsky, Noam. "Categories and Transformations." In [_The Minimalist Program_](https://mitpress.mit.edu/9780262531283). Cambridge, MA: MIT Press, 1995, pp. 225-241. ISBN: 9780262531283.
+{{% resource_link "643cdbab-6ae9-4cdb-8fe1-43bcd705c5bd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Chomsky, Noam. "Categories and Transformations." In {{% resource_link "643cdbab-6ae9-4cdb-8fe1-43bcd705c5bd" "_The Minimalist Program_" %}}. Cambridge, MA: MIT Press, 1995, pp. 225-241. ISBN: 9780262531283.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262133616) ———. "Minimalist Inquiries: The Framework." In [_Step by Step: Essays on Minimalist Syntax in Honor of Howard Lasnik_](https://mitpress.mit.edu/9780262133616). Edited by Roger Martin, David Michaels, and Juan Uriagereka. Cambridge, MA: MIT Press, 1998/2000, pp. 106-112. ISBN: 9780262133616.
+{{% resource_link "79b0fd3c-aa3c-482a-a562-611c629c36b2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "Minimalist Inquiries: The Framework." In {{% resource_link "79b0fd3c-aa3c-482a-a562-611c629c36b2" "_Step by Step: Essays on Minimalist Syntax in Honor of Howard Lasnik_" %}}. Edited by Roger Martin, David Michaels, and Juan Uriagereka. Cambridge, MA: MIT Press, 1998/2000, pp. 106-112. ISBN: 9780262133616.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611602) ———. "Derivation by Phase." In [_Ken Hale: A Life in Language_](https://mitpress.mit.edu/9780262611602). Edited by Michael Kenstowicz. Cambridge, MA: MIT Press, 1999/2001, pp. 1-52. ISBN: 9780262611602.
+{{% resource_link "0ca662b1-6adc-461e-8b22-27a6abcdfd55" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "Derivation by Phase." In {{% resource_link "0ca662b1-6adc-461e-8b22-27a6abcdfd55" "_Ken Hale: A Life in Language_" %}}. Edited by Michael Kenstowicz. Cambridge, MA: MIT Press, 1999/2001, pp. 1-52. ISBN: 9780262611602.
 
 
 {{< tdclose >}}
@@ -190,7 +190,7 @@ Fox, Danny, and David Pesetsky. "Cyclic Linearization of Syntactic Structure." _
 
 Holmberg, Anders. "Remarks on Holmberg's Generalization." _Studia Linguistica_ 53 (1999): 1-39.
 
-Ko, Heejeong. "Asymmetries in Scrambling and Cyclic Linearization." _Linguistic Inquiry_ 28 (2007). ([PDF](http://muse.jhu.edu/journals/linguistic_inquiry/v038/38.1ko.pdf))
+Ko, Heejeong. "Asymmetries in Scrambling and Cyclic Linearization." _Linguistic Inquiry_ 28 (2007). ({{% resource_link "2dd03c54-5759-4354-ac03-9af9f1866b71" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -235,7 +235,7 @@ Cable, Seth. "Q-Particles and the Nature of _Wh_ -Fronting." Manuscript, 2006, M
 A vs. A-bar movement and scrambling
 {{< tdclose >}}
 {{< tdopen >}}
-Mahajan, Anoop K. Chapters 1-2 in "[The A/A-bar Distinction and Theory](http://web.mit.edu/mitwpl/)." Doctoral dissertation, Massachusetts Institute of Technology, 1990, pp. 7-106.
+Mahajan, Anoop K. Chapters 1-2 in "{{% resource_link "ac4e3e5a-4744-4859-85fb-784cab30f041" "The A/A-bar Distinction and Theory" %}}." Doctoral dissertation, Massachusetts Institute of Technology, 1990, pp. 7-106.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +274,7 @@ Lin, Vivian. "Determiner Sharing." In Proceedings of the 19th West Coast Confere
 Parasitic gaps
 {{< tdclose >}}
 {{< tdopen >}}
-Nissenbaum, Jon. "[Investigations of Covert Phrase Movement](http://web.mit.edu/mitwpl/)." Doctoral dissertation, Massachusetts Institute of Technology, 2001.
+Nissenbaum, Jon. "{{% resource_link "ac4e3e5a-4744-4859-85fb-784cab30f041" "Investigations of Covert Phrase Movement" %}}." Doctoral dissertation, Massachusetts Institute of Technology, 2001.
 {{< tdclose >}}
 
 {{< trclose >}}
